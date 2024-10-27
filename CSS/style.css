@@ -448,7 +448,7 @@
         content: "";
         position: absolute;
         bottom: -100%;
-        background: var(--second-color);
+        background: var(--first-color-hover);
         width: 100%;
         height: 100%;
         transition: .4s;
